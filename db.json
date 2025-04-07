@@ -1,0 +1,23 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Pupuk Urea",
+        "price": "Rp 500.000",
+        "image": "https://source.unsplash.com/300x200/?fertilizer"
+      },
+      {
+        "id": 2,
+        "name": "Pupuk NPK",
+        "price": "Rp 500.000",
+        "image": "https://source.unsplash.com/300x200/?plant"
+      },
+      {
+        "id": 3,
+        "name": "Pupuk Posfat",
+        "price": "Rp 400.000",
+        "image": "https://source.unsplash.com/300x200/?agriculture"
+      }
+    ]
+  }
+  
