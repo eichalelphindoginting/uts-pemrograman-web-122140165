@@ -4,7 +4,6 @@ import Navbar from "./components/Navbar";
 import HomePage from "./components/Home";
 import ProductPage from "./product/ProductPage";
 import AboutPage from "./components/About";
-import CheckoutPage from "./components/CheckoutPage"; // ⬅️ Import checkout
 
 
 const App = () => {
